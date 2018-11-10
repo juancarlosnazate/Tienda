@@ -1,0 +1,28 @@
+
+
+
+
+.card-producto{
+  background-color: white;
+}
+
+.productImg{
+  width: 100%;
+  border: solid;
+  border-color: #31708f;
+  border-width: 1px;
+  border-radius: 4px 4px;
+}
+
+.row{
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.btn{
+  margin-top: 5%;
+}
+
+.col-image{
+  padding-left: 0px;
+}
